@@ -35,5 +35,6 @@ CNN performed better than traditional models due to feature extraction capabilit
 📌 Future Enhancements
 Implementing data augmentation for better generalization.
 Deploying the model as a web application.
+
 ✍️ Contributors
 [Ankit Singh]
