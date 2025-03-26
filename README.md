@@ -20,7 +20,7 @@ Prediction & Testing – Testing the model on unseen handwritten digits.
 
 🚀 How to Run
 Clone this repository:
-git clone https://github.com/ankitsingh32/number-recognition.git
+git clone https://github.com/ankitsingh32/Number_recognition.ipynb/blob/main/Number_recognition.ipynb?short_path=3b8903c
 
 Install dependencies:
 pip install -r requirements.txt
