@@ -29,7 +29,7 @@ Run the Jupyter Notebook:
 jupyter notebook
 
 📈 Results & Insights
-Achieved X% accuracy on the test set.
+Achieved 40% accuracy on the test set.
 CNN performed better than traditional models due to feature extraction capabilities.
 
 📌 Future Enhancements
